@@ -1,19 +1,19 @@
 #  DDL Commands & Constraints
 
-## 📌 Overview
+##  Overview
 This project demonstrates the implementation of MySQL DDL Commands and Constraints by designing and managing an Employee Database System.
 
 The assignment focuses on creating relational tables, applying constraints, modifying table structures, and maintaining data integrity using SQL.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - MySQL
 - MySQL Workbench
 
 ---
 
-## 📚 Concepts Covered
+##  Concepts Covered
 
 ### DDL Commands
 - CREATE DATABASE
@@ -34,7 +34,7 @@ The assignment focuses on creating relational tables, applying constraints, modi
 
 ---
 
-## 🗂 Database Tables
+##  Database Tables
 
 ### 1. Employees
 Stores employee details such as:
@@ -58,13 +58,13 @@ Stores location details:
 
 ---
 
-## 🔗 Table Relationships
+##  Table Relationships
 - `department_id` in Employees references Departments table
 - `location_id` in Employees references Locations table
 
 ---
 
-## ⚙ Features Implemented
+## Features Implemented
 - Created relational database structure
 - Applied multiple SQL constraints
 - Modified tables using ALTER commands
@@ -74,7 +74,7 @@ Stores location details:
 
 ---
 
-## 📖 Learning Outcomes
+##  Learning Outcomes
 Through this assignment, I learned:
 - Database creation and table management
 - Applying SQL constraints effectively
@@ -84,7 +84,7 @@ Through this assignment, I learned:
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 This project strengthened my understanding of MySQL database design, DDL operations, and SQL constraints used in real-world database systems.
 
 ---
